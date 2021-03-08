@@ -70,7 +70,7 @@ Este año daremos la alternativa de trabajar desde [RStudio Cloud](https://rstud
 
 # Clases
 ## Tema 1: Estadística Descriptiva
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC2020-1/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1]() - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 1]()
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1]() - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 1]()
 
 # Tarea
 
