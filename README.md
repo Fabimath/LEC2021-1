@@ -76,4 +76,4 @@ Este año daremos la alternativa de trabajar desde [RStudio Cloud](https://rstud
 
 Información sobre la tarea se dará a medida que avancemos en el curso.
 
-[Volver al inicio](https://fabimath.github.io/Fabimath/)d
+[Volver al inicio](https://fabimath.github.io/Fabimath/)
