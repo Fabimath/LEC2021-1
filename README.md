@@ -14,7 +14,7 @@ Para una comunicación mas fluida tendremos un grupo de Telegram donde pueden un
 * Pueden descargar telegram [Aquí](https://desktop.telegram.org/)
 
 Dependiendo de su sección pueden unirse a sus respectivos grupos:
-*  Sección 7 de Santiago <img src="telegram_logo.svg" alt="drawing" width="12"/> [aquí](https://t.me/joinchat/NIE_k2TmbA1mMWYx)
+*  Sección 4 de Santiago <img src="telegram_logo.svg" alt="drawing" width="12"/> [aquí](https://t.me/joinchat/NIE_k2TmbA1mMWYx)
 *  Sección 1 de Viña del Mar <img src="telegram_logo.svg" alt="drawing" width="12"/> [aquí](https://t.me/joinchat/DC4t-62FlUcwY2Vh)
 
 Horario de consultas: _Agendar via correo o telegram._
@@ -30,10 +30,10 @@ Puedes encontrar el programa del curso [aquí](Extras/Programa LEC_PyE_211 viña
 
 ## Fechas de evaluación
 
-* **CONTROL 1**: Por definir
-* **CONTROL 2**: Por definir
-* **CONTROL 3**: Por definir
-* **CONTROL 4**: Por definir
+* CONTROL 1: Semana 29 de Marzo
+* CONTROL 2: Semana 19 de Abril
+* CONTROL 3: Semana 10 de Mayo 
+* CONTROL 4: Semana 07 de Junio
 
 La nota final viene dada por el promedio aritmetico de los 3 mejores controles (PC) mas la nota de la tarea (NT) con la siguiente ponderación:
 
@@ -49,8 +49,8 @@ Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 
 ## Horarios y link de zoom
 Los horarios de clases son los siguientes:
-* Sección 7 Santiago:  [https://zoom.us/j/5037743902](https://zoom.us/j/9103103763)
-* Sección 1 Viña del Mar:  [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902)
+* Sección 4 Santiago:  <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/9103103763)
+* Sección 1 Viña del Mar:  <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902)
 
 ## Instalar R
 
@@ -76,4 +76,4 @@ Este año daremos la alternativa de trabajar desde [RStudio Cloud](https://rstud
 
 Información sobre la tarea se dará a medida que avancemos en el curso.
 
-[Volver al inicio](https://fabimath.github.io/Fabimath/)
+[Volver al inicio](https://fabimath.github.io/Fabimath/)d
