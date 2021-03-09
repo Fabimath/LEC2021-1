@@ -49,8 +49,8 @@ Luego el redondeo a la decima de NF corresponde a la nota final del LEC.
 
 ## Horarios y link de zoom
 Los horarios de clases son los siguientes:
-* Sección 4 Santiago:  <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902)
-* Sección 1 Viña del Mar:  <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902)
+* Sección 4 Santiago:  <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902) - Clave: DTF9zd
+* Sección 1 Viña del Mar:  <img src="zoom_logo.svg" alt="drawing" width="12"/> [https://zoom.us/j/5037743902](https://zoom.us/j/5037743902) - Clave: DTF9zd
 
 ## Instalar R
 
