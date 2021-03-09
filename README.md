@@ -1,3 +1,4 @@
+[//]: <> (LECPYE2021-1)
 # Bienvenido al Laboratorio de Probabilidad y Estadística 2021
 
 Puedes encontrar una versión ejecutable de los códigos aquí:
