@@ -81,5 +81,5 @@ Información sobre la tarea se dará a medida que avancemos en el curso.
 # Bases de Datos
 
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
-
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - TARJETAS](Clases/DB - TARJETAS.csv)
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
