@@ -71,8 +71,10 @@ Este año daremos la alternativa de trabajar desde [RStudio Cloud](https://rstud
 
 # Clases
 ## Tema 1: Estadística Descriptiva
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1](https://youtu.be/UKTaUkKN_mQ) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 1]()
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1](https://youtu.be/UKTaUkKN_mQ) 
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 2](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_02.ipynb)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 3](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_03.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 3](https://youtu.be/W7krZq0AgFw) 
+
 
 # Tarea
 
@@ -82,4 +84,5 @@ Información sobre la tarea se dará a medida que avancemos en el curso.
 
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - TARJETAS](Clases/DB - TARJETAS.csv)
+
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
