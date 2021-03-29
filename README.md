@@ -74,7 +74,7 @@ Este año daremos la alternativa de trabajar desde [RStudio Cloud](https://rstud
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1](https://youtu.be/UKTaUkKN_mQ) 
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 2](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_02.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 2](https://youtu.be/TlzD6NUfWs0)
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 3](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_03.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 3](https://youtu.be/W7krZq0AgFw) 
-
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Ejercicios PreControl 1](https://youtu.be/aTxp1__I5_o)
 
 # Tarea
 
