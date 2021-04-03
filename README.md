@@ -68,7 +68,9 @@ De la misma forma que para el R buscan el instalador adecuado para su sistema op
 ## Rstudio Cloud
 
 Este año daremos la alternativa de trabajar desde [RStudio Cloud](https://rstudio.cloud/) en esta página podras programar en R sin la necesidad de instalar nada, solo necesitas una buena conección a internet.
-
+# Clases en htlm
+Dejo carpeta con las clases en htlm.
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Drive con Clases](https://drive.google.com/open?id=1V0XEcTFD0pKAWAqEmWghPJboyOw6tBVN&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 # Clases
 ## Tema 1: Estadística Descriptiva
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 1](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_01.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1](https://youtu.be/UKTaUkKN_mQ) 
