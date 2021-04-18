@@ -81,6 +81,9 @@ Dejo carpeta con las clases en htlm.
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 2](Clases/Ejercicios_2.pdf)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_3.ipynb)
 
+## Tema 2: Probabilidad
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 4](https://youtu.be/EKuOfj8sLEs)
+
 # Tarea
 
 Información sobre la tarea se dará a medida que avancemos en el curso.
