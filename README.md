@@ -82,7 +82,8 @@ Dejo carpeta con las clases en htlm.
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 3](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Ejercicios_3.ipynb)
 
 ## Tema 2: Probabilidad
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 4](https://github.com/Fabimath/LEC-PYE/blob/master/Clases/Clase_04.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 4](https://youtu.be/EKuOfj8sLEs)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 4](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_04.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 4](https://youtu.be/EKuOfj8sLEs)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 5](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_05.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 5](https://youtu.be/zRjiqfvHPvA)  
 
 # Tarea
 
@@ -92,5 +93,6 @@ Información sobre la tarea se dará a medida que avancemos en el curso.
 
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - TARJETAS](Clases/DB - TARJETAS.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [control_1](Clases/superstore.csv)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
