@@ -94,5 +94,6 @@ Información sobre la tarea se dará a medida que avancemos en el curso.
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - TARJETAS](Clases/DB - TARJETAS.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [superstore.csv](Clases/superstore.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [suicide_rates.csv](https://drive.google.com/open?id=1WNtnB037ooONWxH5dNk01jCMl9ffn-ya&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
