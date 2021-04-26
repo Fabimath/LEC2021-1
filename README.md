@@ -93,6 +93,6 @@ Información sobre la tarea se dará a medida que avancemos en el curso.
 
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [Pokemon](Clases/pokemon.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - TARJETAS](Clases/DB - TARJETAS.csv)
-* <img src="excel_logo.svg" alt="drawing" width="16"/> [control_1](Clases/superstore.csv)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [superstore.csv](Clases/superstore.csv)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
