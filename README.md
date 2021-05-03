@@ -85,6 +85,9 @@ Dejo carpeta con las clases en htlm.
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 4](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_04.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 4](https://youtu.be/EKuOfj8sLEs)
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 5](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_05.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 5](https://youtu.be/zRjiqfvHPvA)  
 
+## Tema 3: Inferencia
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_06.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 6]()
+
 # Tarea
 
 Información sobre la tarea se dará a medida que avancemos en el curso.
@@ -95,5 +98,7 @@ Información sobre la tarea se dará a medida que avancemos en el curso.
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [DB - TARJETAS](Clases/DB - TARJETAS.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [superstore.csv](Clases/superstore.csv)
 * <img src="excel_logo.svg" alt="drawing" width="16"/> [suicide_rates.csv](https://drive.google.com/open?id=1WNtnB037ooONWxH5dNk01jCMl9ffn-ya&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="excel_logo.svg" alt="drawing" width="16"/> [data clase 6](https://drive.google.com/open?id=1WqQ8WXn-ZNqL9CbVgGK1nVaW9L-2Oco4&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
