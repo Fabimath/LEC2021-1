@@ -87,7 +87,7 @@ Dejo carpeta con las clases en htlm.
 
 ## Tema 3: Inferencia
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_06.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 6](https://youtu.be/Tm1MwCZ0Sm0)
-* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_07.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 7]()
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_07.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 7](https://youtu.be/Gz0TneQkJDw)
 
 # Tarea
 
