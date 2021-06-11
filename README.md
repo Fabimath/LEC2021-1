@@ -89,6 +89,10 @@ Dejo carpeta con las clases en htlm.
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 6](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_06.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 6](https://youtu.be/Tm1MwCZ0Sm0)
 * <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 7](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_07.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 7](https://youtu.be/Gz0TneQkJDw)
 
+## Tema 4: Regresión
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 8](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_08.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 8](https://youtu.be/oOvKt1z1mCA)
+* <img src="git_logo.svg" alt="drawing" width="16"/> [Clase 9](https://github.com/Fabimath/LEC2021-1/blob/master/Clases/Clase_09.ipynb) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 9](https://youtu.be/66CdSdgtsgg)
+
 # Tarea
 
 Información sobre la tarea se dará a medida que avancemos en el curso.
